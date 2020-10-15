@@ -9,4 +9,4 @@ Welcome to **Candy Rush Game**. It is a small game made in java using swing pack
 
 ## Screenshot
 
-![Candy Rush Game](https://user-images.githubusercontent.com/55116730/96139230-43725780-0f1c-11eb-87f1-434a3bd432a9.gif)
+[![Candy Rush Game](https://user-images.githubusercontent.com/55116730/96139230-43725780-0f1c-11eb-87f1-434a3bd432a9.gif)](#screenshot)
